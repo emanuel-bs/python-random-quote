@@ -1,6 +1,6 @@
 def main():
    print("Keep it logically awesome.")
-
+#spaces !important
   #f = open("quotes.txt")
   #quotes = f.readlines()
   #f.close()
